@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 1A30-0804
+
+ Directory of C:\Users\sang.nguyen\Desktop\TestGit
+
+02/20/2019  03:26 PM    <DIR>          .
+02/20/2019  03:26 PM    <DIR>          ..
+02/20/2019  03:26 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  171,448,684,544 bytes free
